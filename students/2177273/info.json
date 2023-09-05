@@ -1,7 +1,7 @@
 {
-    "nombre": "Juan Perez",
-    "edad": 20,
-    "carrera": "Ingeniería electronica",
-    "semestre": 5,
-    "gustos" : ["Futbol","Comer", "UFC", "Viajar"]
+  "nombre": "Hassen Ortiz",
+  "edad": 24,
+  "carrera": "Ingeniería de sistemas",
+  "semestre": 5,
+  "gustos": ["Anime", "Cocinar", "Música", "Karate"]
 }
