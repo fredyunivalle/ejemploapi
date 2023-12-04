@@ -18,3 +18,5 @@
         "semestre": 4
     }
 }
+
+"20180605": {"nombre" : "Alejandro" , "semestre": 6 , "soltero":false , "gustos" : ['musica', 'comer','viajar']},
